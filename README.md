@@ -1,4 +1,4 @@
-
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/SF.jpg'>
 
 # Time series Prediction on California Home sales
 
