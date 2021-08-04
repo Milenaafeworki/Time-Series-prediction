@@ -24,3 +24,60 @@ This dataset contains 14723 rows and 272 columns.
 - Return on Investment
 - Risk to Reward ratio (Coefficient of variation)
 - SARIMAX modeling
+ 
+## Time series analysis
+
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/ROI.png'>
+
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/ziphomevalue.png'>
+
+## Recommendation
+For the Real estate looking to immediately invest in the following zipcodes, here are the recommendations on the budget worth of a home and whether it is advisable to buy ,flip and sell the house, or buy and hold.
+
+
+**Zip code 96141 (Placer county):** Buy, Flip and sell homes within a year. (Budget of $756,000)
+
+                                
+                                Total expected return in 1 year: 0.77%
+                                Total expected return in 3 years: -3.8%                                
+                                Total expected return in 5 year: -6.27%                                
+                                Total expected return in 10 years: -8.15%
+                                
+                                
+**Zip code 93405 (San Luis Obispo):** Buy and hold for the next 5-10 years. (Budget of $642,000)
+
+                                  Total expected return in 1 year: 8.1%
+                                  Total expected return in 3 years: 12.39%          
+                                  Total expected return in 5 year: 13.0%
+                                  Total expected return in 10 years: 13.13% 
+                                  
+                                  
+**Zip code 92101 (San Diego county):** Buy and hold for the next 3-5 years. (Budget of $552,000)
+
+                                   Total expected return in 1 year: 10.47%
+                                   Total expected return in 3 years: 14.06%
+                                   Total expected return in 5 year: 14.27%
+                                   Total expected return in 10 years: 14.27%
+
+                            
+**Zip code 95441 (Sonoma County):** Buy, flip and sell within a year. (Budget of $684,000)
+
+                                Total expected return in 1 year: 0.1%
+                                Total expected return in 3 years: -7.26%
+                                Total expected return in 5 year: -8.3%
+                                Total expected return in 10 years: -8.42%
+                                
+**Zip code 91754 (Los Angeles):** Buy and hold for atleast 10years. (Budget of $587,000)
+
+                              Total expected return in 1 year: 6.61%
+                              Total expected return in 3 years: 15.09%
+                              Total expected return in 5 year: 18.88%
+                              Total expected return in 10 years: 21.05%
+
+       
+## Further Study
+
+- The model is unable to correctly adjust to unique events such as exogenous data. Interest rates, rent values and GDP would be important factors to explore the relationship they would have with the home values. Rent income should exceed the costs of maintenance, mortgage, insurance, taxes and other expenses. Any gains that may be realized from selling the property later should also be factored into the calculation.
+
+
+- Model would be more effective with more recent years data and considering the impact of recent events on Real Estate investment.
