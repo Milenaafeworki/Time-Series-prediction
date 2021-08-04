@@ -29,7 +29,7 @@ This dataset contains 14723 rows and 272 columns.
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/ROI.png'>
 
-<img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/ziphomevalue.png'>
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/zip%20home%20value.png'>
 
 ## Recommendation
 For the Real estate looking to immediately invest in the following zipcodes, here are the recommendations on the budget worth of a home and whether it is advisable to buy ,flip and sell the house, or buy and hold.
