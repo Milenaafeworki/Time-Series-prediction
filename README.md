@@ -80,4 +80,4 @@ For the Real estate looking to immediately invest in the following zipcodes, her
 - The model is unable to correctly adjust to unique events such as exogenous data. Interest rates, rent values and GDP would be important factors to explore the relationship they would have with the home values. Rent income should exceed the costs of maintenance, mortgage, insurance, taxes and other expenses. Any gains that may be realized from selling the property later should also be factored into the calculation.
 
 
-- Model would be more effective with more recent years data and considering the impact of recent events on Real Estate investment.
+- Model would be more effective with more recent years data and considering the impact of recent events on Real Estate Business.
