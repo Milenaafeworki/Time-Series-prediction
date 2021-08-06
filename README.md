@@ -34,7 +34,7 @@ This dataset contains 14723 rows and 272 columns.
 ## Recommendation
 For the Real estate looking to immediately invest in the following zipcodes, here are the recommendations on the budget worth of a home and whether it is advisable to buy ,flip and sell the house, or buy and hold.
 
-<img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/California%20Counties%20top%205.png'>
+<img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/Cali%20map.png'>
 
 
 **Zip code 96141 (Placer county):** Buy, Flip and sell homes within a year. (Budget of $756,000)
