@@ -27,23 +27,31 @@ This dataset contains 14723 rows and 272 columns.
  
 ## Time series analysis
 
+The home sale values have turned up to show that our 10 counties have had an ROI gain of at least 150% of their original value from 1996. With Placer, Orange county, San Luis Obispo and San Diego making it to above 250%. The zipcodes from these counties had been further filtered out according to their risk to reward ratio, and taking into consideration only the ones with values less than 35%.
+
+
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/ROI.png'>
+
+
+Looking at the trend Home prices crashed during and after The Great Recession, which started as a result of the subprime mortgages and mismanagement of mortgage-backed securities, which caused real estate housing prices to fall by 30% to 50% in a matter of months. The future’s unpredictability has also been taken into consideration to select zipcodes with resilience and better recovery history. The next step was to build models for each of the top10 zip codes and see how they would perform on predicting home prices for the next 10years.
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/zip%20home%20value.png'>
 
 ## Recommendation
+
 For the Real estate looking to immediately invest in the following zipcodes, here are the recommendations on the budget worth of a home and whether it is advisable to buy ,flip and sell the house, or buy and hold.
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/Cali%20map.png'>
 
 
-**Zip code 96141 (Placer county):** Buy, Flip and sell homes within a year. (Budget of $756,000)
+
+**Zip code 92866 (LA- Long Beach county):** Buy, Flip and sell homes within a year. (Budget of $584,000)
 
                                 
-                                Total expected return in 1 year: 0.77%
-                                Total expected return in 3 years: -3.8%                                
-                                Total expected return in 5 year: -6.27%                                
-                                Total expected return in 10 years: -8.15%
+                            Total expected return in 1 year: 2.5%
+                            Total expected return in 3 years: 2.67%
+                            Total expected return in 5 year: 2.67%
+                            Total expected return in 10 years: 2.67%
                                 
                                 
 **Zip code 93405 (San Luis Obispo):** Buy and hold for the next 5-10 years. (Budget of $642,000)
@@ -62,24 +70,38 @@ For the Real estate looking to immediately invest in the following zipcodes, her
                                    Total expected return in 10 years: 14.27%
 
                             
-**Zip code 95441 (Sonoma County):** Buy, flip and sell within a year. (Budget of $684,000)
+**Zip code 92860 (Riverside County):** Buy, flip and sell within a year. (Budget of $439,000)
 
-                                Total expected return in 1 year: 0.1%
-                                Total expected return in 3 years: -7.26%
-                                Total expected return in 5 year: -8.3%
-                                Total expected return in 10 years: -8.42%
-                                
+                            Total expected return in 1 year: 7.43%
+                            Total expected return in 3 years: 11.23%
+                            Total expected return in 5 year: 11.82%
+                            Total expected return in 10 years: 11.93%
+
 **Zip code 91754 (Los Angeles):** Buy and hold for atleast 10years. (Budget of $587,000)
 
-                              Total expected return in 1 year: 6.61%
-                              Total expected return in 3 years: 15.09%
-                              Total expected return in 5 year: 18.88%
-                              Total expected return in 10 years: 21.05%
+                            Total expected return in 1 year: 2.6%
+                            Total expected return in 3 years: 4.72%
+                            Total expected return in 5 year: 5.32%
+                            Total expected return in 10 years: 5.54%
+
+       
 
        
 ## Further Study
 
-- The model is unable to correctly adjust to unique events such as exogenous data. Interest rates, rent values and GDP would be important factors to explore the relationship they would have with the home values. Rent income should exceed the costs of maintenance, mortgage, insurance, taxes and other expenses. Any gains that may be realized from selling the property later should also be factored into the calculation.
+- Increase effectiveness of model with more recent years of data and examine how recent events such as COVID have impacted the Real Estate business.
+
+- Explore how model would be able to adjust to exogenous data such as interest rate, rent values, GDP to further investigate their relationship with home values.
+
+- Rent income should exceed the costs of maintenance, mortgage, insurance, taxes and other expenses. Any gains that may be realized from selling the property later should also be factored into the calculation.
+
+```
+├── images
+├── notebook
+├── time series analysis.pdf
+├── time series analysis.ipynb
+├── README.md
+└── Zillow_data.csv
+```
 
 
-- Model would be more effective with more recent years data and considering the impact of recent events on Real Estate Business.
