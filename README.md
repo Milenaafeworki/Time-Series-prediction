@@ -45,7 +45,7 @@ For the Real estate looking to immediately invest in the following Zip codes, he
 
 
 
-**Zip code 92866 (LA- Long Beach county):** Buy, Flip and sell homes within a year. (Budget of $584,000)
+**Zip code 92866 (Placer county):** Buy, Flip and sell homes within a year. (Budget of $584,000)
 
                                 
                             Total expected return in 1 year: 2.5%
