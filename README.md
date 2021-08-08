@@ -7,7 +7,7 @@ With 54 of the Fortune 500 companies headquartered in California, like Google, A
 
 ## Business Problem
 
-A real estate company is looking to flip homes, what are the top 5 zip codes to invest in? How will we scale our data? What defines best?
+A real estate company is looking to flip homes, what are the top 5 Zip codes to invest in? How will we scale our data? What defines best?
 
 For this dataset, we will only include data from CA. Because of the housing market crash, any modelling that uses only recent years may be misleading. We will use every value from 1996 to 2018 so we can have the most accurate picture of home values in CA through the years.
 
@@ -39,7 +39,7 @@ Looking at the trend Home prices crashed during and after The Great Recession, w
 
 ## Recommendation
 
-For the Real estate looking to immediately invest in the following zipcodes, here are the recommendations on the budget worth of a home and whether it is advisable to buy ,flip and sell the house, or buy and hold.
+For the Real estate looking to immediately invest in the following Zip codes, here are the recommendations on the budget worth of a home and whether it is advisable to buy ,flip and sell the house, or buy and hold.
 
 <img src='https://raw.githubusercontent.com/Milenaafeworki/Time-Series-prediction/main/images/Cali%20map.png'>
 
